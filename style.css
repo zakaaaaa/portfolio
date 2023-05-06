@@ -1,0 +1,62 @@
+.konten-kedua {
+    width: 100%;
+} 
+
+.Konten-pertama {
+    width: 50%;
+}
+
+.style-konten-1-2 {
+    margin-top: 4rem;
+    padding-top: 4rem;
+}
+
+.style-2 {
+    margin-top: 6rem;
+}
+
+.Konten-ketiga {
+    width: 90%;
+    padding-top: 10rem;
+    margin-bottom: 10rem;
+    margin-top: 3rem
+}
+
+.judul-konten-4 {
+    width: 20%;
+}
+
+.konten4 {
+    width: 100%;
+}
+
+.deskripsi4 {
+    width: 90%;
+}
+
+.judul5 {
+    width: 30%;
+}
+
+.paddjudul5 {
+    padding-top: 8rem;
+    padding-bottom: 4rem;
+}
+
+.akhir {
+    background-image: url('backgorund_bawah.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+nav {
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+  }
+
+.fixnavbar {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+  
